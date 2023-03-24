@@ -125,10 +125,10 @@ Run this commands:
 
 ```sh
   
-  git clone git@github.com:Graceshiks/Hello-microverse.git
+  git clone git@github.com:Graceshiks/Portfolio.git
 ```
 ```sh
-  cd Hello-microverse
+  cd Portfolio
    
 ```
 
@@ -154,7 +154,7 @@ To run the project, execute the following command:
 
 > coming soon
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align ="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -179,7 +179,7 @@ To run the project, execute the following command:
 
 - [ ] Add Javascript.
 - [ ] Add more styling.
-- [ ] Add add header and footer.
+- [ ] Add frameworks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,7 +200,7 @@ Feel free to check the [issues page](git@github.com:Graceshiks/Hello-microverse/
 
 If you like this project kindly give it a star.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align ="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
