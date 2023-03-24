@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+*{
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  font-family: inter, sans-serif;
+} 
+
+.topnav {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 48px;
+   background-color: #fff;
+}
+
+.logo {
+Font-family: Poppins, sans-serif;
+Font-style: Bold;
+Font-size: 18px;
+Line-height: 20px;
+Line-height: 74%;
+font-weight: 700;
+color: #6070ff;
+
+}
+.hambuger {
+  display: block;
+}
+
+.hambuger-bar {
+width: 26px;
+height: 3px;
+background-color: #6070ff;
+margin: 5px;
+}
+
+
