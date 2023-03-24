@@ -1,61 +1,62 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
 
-*{
-  margin : 0;
+* {
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-repeat: no-repeat;
   font-family: inter, sans-serif;
-} 
+}
 
- 
+
 
 .topnav {
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   min-height: 48px;
-   background-color: #fff;
-   margin: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 48px;
+  background-color: #fff;
+  margin: 0 25px;
 }
 
 .logo {
-font-family: Poppins, sans-serif;
-font-style: Bold;
-font-size: 18px;
-line-height: 20px;
-line-height: 74%;
-font-weight: 700;
-color: #6070ff;
-
+  font-family: Poppins, sans-serif;
+  font-style: bold;
+  font-size: 18px;
+  line-height: 20px;
+  line-height: 74%;
+  font-weight: 700;
+  color: #6070ff;
 }
+
 .hambuger {
   display: block;
 }
 
 .hambuger-bar {
-width: 26px;
-height: 3px;
-background-color: #6070ff;
-margin: 5px;
+  width: 26px;
+  height: 3px;
+  background-color: #6070ff;
+  margin: 5px;
 }
- .container {
+
+.container {
   background-image: url("./images/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 718px;
- }
+}
 
 .first-section {
   display: flex;
   flex-direction: column;
   margin: 0 24px;
   padding-top: 155px;
-  
 }
+
 .title {
   font-family: Poppins, sans-serif;
-  font-style: Bold;
+  font-style: bold;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
@@ -64,26 +65,26 @@ margin: 5px;
 }
 
 .intro {
-font-family: Poppins,sans-serif;
-font-style: Regular;
-font-size: 16px;
-line-height: 24px;
-color: #344563;
-min-width: 327px;
-padding-bottom: 8px;
-font-weight: 400;
+  font-family: Poppins, sans-serif;
+  font-style: regular;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  min-width: 327px;
+  padding-bottom: 8px;
+  font-weight: 400;
 }
+
 .getintouch {
   font-family: Poppins, sans-serif;
-  font-style: Medium;
+  font-style: medium;
   font-size: 16px;
   line-height: 24px;
   color: #7f8cff;
   padding-bottom: 8px;
   font-weight: 600;
 }
+
 .socialmedia {
   padding: 5px;
 }
-
-
