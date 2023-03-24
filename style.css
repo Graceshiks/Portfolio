@@ -8,20 +8,23 @@
   font-family: inter, sans-serif;
 } 
 
+ 
+
 .topnav {
    display: flex;
-   justify-content: space-around;
+   justify-content: space-between;
    align-items: center;
    min-height: 48px;
    background-color: #fff;
+   margin: 0 25px;
 }
 
 .logo {
-Font-family: Poppins, sans-serif;
-Font-style: Bold;
-Font-size: 18px;
-Line-height: 20px;
-Line-height: 74%;
+font-family: Poppins, sans-serif;
+font-style: Bold;
+font-size: 18px;
+line-height: 20px;
+line-height: 74%;
 font-weight: 700;
 color: #6070ff;
 
@@ -35,6 +38,52 @@ width: 26px;
 height: 3px;
 background-color: #6070ff;
 margin: 5px;
+}
+ .container {
+  background-image: url("./images/header-shapes\ mobile.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 718px;
+ }
+
+.first-section {
+  display: flex;
+  flex-direction: column;
+  margin: 0 24px;
+  padding-top: 155px;
+  
+}
+.title {
+  font-family: Poppins, sans-serif;
+  font-style: Bold;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+  padding: 8px 0;
+}
+
+.intro {
+font-family: Poppins,sans-serif;
+font-style: Regular;
+font-size: 16px;
+line-height: 24px;
+color: #344563;
+min-width: 327px;
+padding-bottom: 8px;
+font-weight: 400;
+}
+.getintouch {
+  font-family: Poppins, sans-serif;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+  padding-bottom: 8px;
+  font-weight: 600;
+}
+.socialmedia {
+  padding: 5px;
 }
 
 
