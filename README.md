@@ -169,7 +169,7 @@ To run the project, execute the following command:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/grace-wanjiku-96aaa3109/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align ="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
