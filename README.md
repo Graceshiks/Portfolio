@@ -21,21 +21,17 @@ REQUIRED SECTIONS:
 
 OPTIONAL SECTIONS:
 - FAQ
-
-After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./grce logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>My Portifolio </b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
-
+    <!--Table of contents -->
+  
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -70,7 +66,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> The tech stack I used include:
 
 <details>
   <summary>Client</summary>
@@ -85,22 +81,13 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+>  1-3 key features of the application.
 
 - Added index.html flle.
 - Added style.css file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -175,7 +162,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Future features you will add to the project.
 
 - [ ] Add Javascript.
 - [ ] Add more styling.
@@ -189,7 +176,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](git@github.com:Graceshiks/Hello-microverse/issues/).
+Feel free to check the [issues page](git@github.com:Graceshiks/Portfolio/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +194,7 @@ If you like this project kindly give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Leslie Gudo for the immense support.
+I would like to thank microverse team for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,15 +202,7 @@ I would like to thank Leslie Gudo for the immense support.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
