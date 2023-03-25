@@ -84,6 +84,14 @@
   font-weight: 600;
 }
 
-.socialmedia {
-  padding: 5px;
+.social-media-icon {
+  display: flex;
+}
+
+.social-media-icon li {
+  list-style-type: none;
+}
+
+.social-media {
+  padding: 10px;
 }
