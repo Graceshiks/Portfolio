@@ -339,10 +339,22 @@
   flex-direction: column;
   /* justify-content: start; */
   align-items: center;
-  background-image: url(./images/contact\ form\ shapes-mobile@2x.png);
-  background-repeat: no-repeat;
+  /* padding: 20px; */
+  border: 3px solid black;
+  overflow: hidden;
+
 } 
 
+.contact-content{
+  width: 375px;
+  border: 1px solid red;
+  background-image: url(./images/contact-form-shapes-mobile\ \(1\).svg);
+  background-repeat: no-repeat;
+  background-position:right top;
+  position: relative;
+  z-index: 1;
+
+}
 .contact-me{
   margin-top:6.4rem ;
 font-family: 'Poppins';
