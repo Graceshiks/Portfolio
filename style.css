@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
-/* .container {
-  min-width: 375px;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
+@media only screen and (max-width: 768px) {
+
+  
+}
 
 * {
   margin: 0;
@@ -14,6 +13,7 @@
   background-repeat: no-repeat;
   font-family: 'poppins', sans-serif;
 }
+
 
 .topnav {
   width: 375px;
@@ -34,11 +34,13 @@
   font-weight: 700;
   color: #6070ff;
   padding: 4px;
+  margin-top: 58px;
 }
 
 .hambuger {
   display: block;
   margin-right: 36px;
+  margin-top: 58px;
 }
 
 .hambuger-bar {
@@ -50,11 +52,14 @@
 
 .first-section {
   width: 375px;
+  height: 640px;
   display: flex;
   flex-direction: column;
-  padding: 155px 24px;
+  padding: 100px 24px;
   border-bottom-left-radius: 15%;
   background-image: url(images/header-shapes\ mobile.png);
+  background-size: contain;
+  border-bottom-left-radius: 100px;
 }
 
 .title {
@@ -345,7 +350,7 @@
   flex-direction: column;
   align-items: center;
   overflow: hidden;
-  margin: 0%;
+  background-size: cover;
 }
 
 .contact-content {
@@ -443,3 +448,4 @@ input:focus,
 textarea:focus {
   outline: none;
 }
+
