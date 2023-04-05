@@ -225,7 +225,7 @@
 }
 
 .section {
-  background-color: #e5e5e5;
+  /* background-color: #e5e5e5; */
 }
 
 .proj-img {
@@ -284,7 +284,7 @@
 }
 
 .sec-3 {
-  background-color: #e5e5e5;
+  /* background-color: #e5e5e5; */
 }
 
 .section3-div {
@@ -293,6 +293,8 @@
   margin-top: 10px;
   padding-bottom: 30%;
   width: 375px;
+  background: #000;
+  background-size: cover;
 }
 
 .line {
