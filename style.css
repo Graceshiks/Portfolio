@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) { */
 
   
-}
+
 
 * {
   margin: 0;
@@ -225,7 +225,7 @@
 }
 
 .section {
-  /* background-color: #e5e5e5; */
+  background-color: #e5e5e5;
 }
 
 .proj-img {
@@ -283,17 +283,12 @@
   padding-top: 80px;
 }
 
-.sec-3 {
-  /* background-color: #e5e5e5; */
-}
-
 .section3-div {
   background-color: #fff;
   border-top-right-radius: 100px;
   margin-top: 10px;
   padding-bottom: 30%;
   width: 375px;
-  background: #000;
   background-size: cover;
 }
 
