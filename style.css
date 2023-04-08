@@ -89,7 +89,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   color: #344563;
-  padding-bottom: 8pxpx 0;
+  padding-bottom: 8px 0;
   font-weight: 400;
   margin-bottom: 30px;
 }
@@ -102,8 +102,7 @@ body {
   color: #7f8cff;
   padding-bottom: 8px;
   font-weight: 600;
-  margin-left: 8px;
-  margin: 20px 0;
+  margin: 20px 8px;
 }
 
 .social-media-icon {
