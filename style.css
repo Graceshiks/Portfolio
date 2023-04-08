@@ -24,7 +24,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 48px;
+
+  /* min-height: 48px; */
   background-color: #fff;
 }
 
@@ -86,11 +87,12 @@ body {
 .intro {
   font-family: 'poppins', sans-serif;
   font-style: regular;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
   color: #344563;
-  min-width: 87%;
-  padding-bottom: 8px;
+
+  /* min-width: 87%; */
+  padding-bottom: 8px 0;
   font-weight: 400;
 }
 
@@ -182,7 +184,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 40px;
   line-height: 44px;
   color: #172b4d;
   padding: 4px 0;
@@ -244,10 +246,11 @@ body {
   display: flex;
 }
 
+/*
 .section-2 {
   padding-bottom: 100px;
   display: grid;
-}
+} */
 
 .intro-1 {
   font-family: 'Poppins', sans-serif;
@@ -256,7 +259,6 @@ body {
   font-size: 13px;
   line-height: 16px;
   color: #344563;
-  display: flex;
 }
 
 .intro-2 {
@@ -328,7 +330,8 @@ body {
 }
 
 .proj-intro {
-  margin: 20px 0;
+  margin: 18px 0;
+  margin: auto;
 }
 
 .lan-g {
@@ -380,7 +383,12 @@ body {
 }
 
 .introb {
-  max-width: 87%;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
 }
 
 .line {
@@ -541,7 +549,7 @@ textarea:focus {
 @media only screen and (min-width: 768px) {
   /* for desktop */
   body {
-    max-width: 1440px;
+    max-width: 100%;
   }
 
   .intro-section {
@@ -549,7 +557,7 @@ textarea:focus {
   }
 
   .topnav {
-    min-height: 48px;
+    max-height: 48px;
     min-width: 1440px;
   }
 
@@ -562,10 +570,10 @@ textarea:focus {
 
   .intro {
     max-width: 920px;
+    font-size: 20px;
   }
 
   .title {
-    padding: 12px;
     font-size: 48px;
     max-width: 920px;
   }
@@ -623,7 +631,7 @@ textarea:focus {
     flex-direction: column;
     height: 496px;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     position: relative;
     padding: 24px;
     background-color: #fff;
@@ -638,7 +646,7 @@ textarea:focus {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 44px;
     color: #172b4d;
     padding: 4px 0;
@@ -649,7 +657,7 @@ textarea:focus {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 44px;
     color: #172b4d;
     padding: 4px 0;
@@ -660,7 +668,7 @@ textarea:focus {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 44px;
     color: #172b4d;
     padding: 4px 0;
@@ -671,7 +679,7 @@ textarea:focus {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 44px;
     color: #172b4d;
     padding: 4px 0;
@@ -793,36 +801,36 @@ textarea:focus {
   }
 
   .p-descrip2 {
-    display: inline;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 24px;
     color: #344563;
-    padding: 12px;
+    margin: 18px 0;
+    display: inline;
   }
 
   .p-descrip3 {
-    display: inline;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 24px;
     color: #344563;
-    padding: 12px;
+    margin: 18px 0;
+    display: inline;
   }
 
   .p-descrip4 {
-    display: inline;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 24px;
     color: #344563;
-    padding: 12px;
+    margin: 18px 0;
+    display: inline;
   }
 
   .hambuger-bar {
@@ -833,7 +841,7 @@ textarea:focus {
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    margin: 0;
+    margin: 25px;
     float: left;
     gap: 32px;
     margin-right: 152px;
