@@ -42,14 +42,12 @@ body {
   font-weight: 700;
   color: #6070ff;
   padding: 4px;
-  margin-top: 58px;
   margin-left: 24px;
 }
 
 .hambuger {
   display: block;
   margin-right: 36px;
-  margin-top: 58px;
 }
 
 .hambuger-bar {
@@ -82,6 +80,7 @@ body {
   color: #172b4d;
   padding: 8px 0;
   max-width: 327px;
+  margin-bottom: 4px;
 }
 
 .intro {
@@ -90,10 +89,9 @@ body {
   font-size: 20px;
   line-height: 24px;
   color: #344563;
-
-  /* min-width: 87%; */
-  padding-bottom: 8px 0;
+  padding-bottom: 8pxpx 0;
   font-weight: 400;
+  margin-bottom: 30px;
 }
 
 .getintouch {
@@ -104,6 +102,8 @@ body {
   color: #7f8cff;
   padding-bottom: 8px;
   font-weight: 600;
+  margin-left: 8px;
+  margin: 20px 0;
 }
 
 .social-media-icon {
@@ -305,6 +305,7 @@ body {
   margin: 24px;
   display: flex;
   margin-top: 10px;
+  margin-left: 10px;
 }
 
 .proj-img {
